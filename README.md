@@ -1,4 +1,4 @@
-# Final Project: Hybrid Ray-Raster Renderer in Vulkan
+Hybrid Ray-Raster Renderer in Vulkan
 ===============
 
 ![](/docs/images/bear_boxes.gif)
